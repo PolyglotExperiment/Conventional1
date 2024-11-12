@@ -55,7 +55,7 @@ The properties of the collection are intuitive.
 
 ## Task
 
-🎯 **Obtain the total cost of all maintenance performed on all landmarks in a given location.**
+🎯 **Obtain the total costs of all maintenance performed on all landmarks in a given location.**
 
 ### Steps
 
