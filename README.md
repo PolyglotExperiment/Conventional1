@@ -72,7 +72,7 @@ The properties of the collection are intuitive.
 
 **4.** **⏰⏰⏰ NOTE THE END TIME ⏰⏰⏰**.
 
-**5.** Please send email the whole project code (Conventional1) as a _zip_, _tar.gz_, or _7z_ file to **fernando.opc@gmail.com**. To prevent attachment issues on some email servers, run `mvn clean` or manually delete the `target` folder.
+**5.** Please send email the whole project code (Conventional1) as a _zip_, _tar.gz_, rar, or _7z_ file to **fernando.opc@gmail.com**. To prevent attachment issues on some email servers, run `mvn clean` or manually delete the `target` folder. If you have troubles with email attachments, send only the Java classes that you modified.
   
 > [!WARNING]
 > Do not alter any of the existing tests.
