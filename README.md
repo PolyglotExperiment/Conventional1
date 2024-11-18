@@ -78,3 +78,5 @@ The properties of the collection are intuitive.
 > Do not alter any of the existing tests.
 > 
 > Don't forget to **NOTE the START and END times** of your coding.
+
+**6.** **If this is your SECOND task**, please 🎯 conclude the experiment by filling out the form [https://forms.gle/QwuAV6opgTsqCDK69].
