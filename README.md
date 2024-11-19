@@ -79,4 +79,4 @@ The properties of the collection are intuitive.
 > 
 > Don't forget to **NOTE the START and END times** of your coding.
 
-**6.** **If this is your SECOND task**, please 🎯 conclude the experiment by filling out the form [https://forms.gle/QwuAV6opgTsqCDK69].
+**6.** **If this is your SECOND task and you have already finished it**, please 🎯 conclude the experiment by filling out the form [https://forms.gle/QwuAV6opgTsqCDK69].
